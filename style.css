@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+.title-web {
+  left: 240px;
+}
+.list-footer li {
+  margin-left: 30px;
+  text-decoration: underline;
+}
+.text-center-page {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+}
